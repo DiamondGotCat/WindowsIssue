@@ -1,0 +1,16 @@
+
+{
+    "id": "7774b8f6-0c6f-4944-b6f5-36c192613546",
+    "desc": "SSD corruption during large data copy in Windows 11",
+    "status": "announced",
+    "recurrence": false,
+    "windows": {
+        "editions": ["11:any"],
+        "updates": ["KB5063878", "KB5062660"]
+    },
+    "conditions": {},
+    "effects": {},
+    "timestamps": {
+        "2025-11-03T10:34:43.081374+00:00": {"by": "nercone", "desc": "Added this problem file"}
+    }
+}
